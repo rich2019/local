@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>事件绑定</title>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script>
+        $(function () {
+            $("#b1").click(function () {
+                alert("abc");
+            })
+        })
+
+        $(function () {
+            $("#div1").css("backgroundColor","red");
+        })
+
+    </script>
+</head>
+<body>
+<div id="div1">div1.......</div>
+<div id="div2">div2.......</div>
+<input type="button" value="点我" id="b1">
+
+<script>
+    /*//给button添加按钮点击事件
+    $("#b1").click(function () {
+        alert("abc");
+
+
+    });*/
+
+</script>
+
+</body>
+</html>

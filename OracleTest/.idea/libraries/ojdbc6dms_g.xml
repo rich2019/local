@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc6dms_g">
+    <CLASSES>
+      <root url="jar://F:/java/java包/oracle驱动/ojdbc6dms_g.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="32-mystore-admin:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/32_mystore_admin_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="32-mystore-admin/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="32-mystore-admin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="tomcat8" />
+          <element id="file-copy" path="G:/学习文档/工具/java包/lombok/lombok.jar" />
+          <element id="library" level="module" name="junit5" module-name="32-mystore-admin" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.37-bin.jar" module-name="32-mystore-admin" />
+          <element id="library" level="module" name="commons-beanutils-1.8.3.jar" module-name="32-mystore-admin" />
+          <element id="library" level="module" name="commons-dbutils-1.6.jar" module-name="32-mystore-admin" />
+          <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="32-mystore-admin" />
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="32-mystore-admin" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

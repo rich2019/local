@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/com.springsource.org.apache.log4j-1.2.15.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-context-4.2.4.RELEASE.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-expression-4.2.4.RELEASE.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-test-4.2.4.RELEASE.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.2.4.RELEASE.jar!/" />
+      <root url="jar://F:/java/java包/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/libs/spring-aspects-4.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

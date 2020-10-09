@@ -1,0 +1,4 @@
+com\github\binarywang\utils\qrcode\MatrixToLogoImageConfig.class
+com\github\binarywang\utils\qrcode\BufferedImageLuminanceSource.class
+com\github\binarywang\utils\qrcode\QrcodeUtils.class
+com\github\binarywang\utils\qrcode\MatrixToImageWriter.class

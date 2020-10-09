@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="car_oil:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/car_oil_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="car_oil/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="car_oil" />
+          <element id="library" level="project" name="car_oil" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-beanutils-1.8.3.jar" module-name="car_oil" />
+          <element id="library" level="module" name="commons-dbutils-1.6.jar" module-name="car_oil" />
+          <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="car_oil" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.37-bin.jar" module-name="car_oil" />
+          <element id="library" level="module" name="json-simple-1.1.jar" module-name="car_oil" />
+          <element id="file-copy" path="F:/java/java包/junit-4.7/junit-4.7.jar" />
+          <element id="file-copy" path="F:/java/java包/lombok/lombok.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

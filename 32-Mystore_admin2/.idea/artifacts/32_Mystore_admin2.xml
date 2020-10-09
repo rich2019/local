@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="32-Mystore_admin2">
+    <output-path>$PROJECT_DIR$/out/artifacts/32_Mystore_admin2</output-path>
+    <root id="archive" name="32-Mystore_admin2.war">
+      <element id="artifact" artifact-name="32-Mystore_admin2:Web exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="F:/java/java包/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4.jar" />
+          <element id="file-copy" path="F:/java/java包/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-javadoc.jar" />
+          <element id="file-copy" path="F:/java/java包/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-sources.jar" />
+          <element id="file-copy" path="F:/java/java包/commons-pool-1.5.6-bin/commons-pool-1.5.6/commons-pool-1.5.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/druid-1.0.15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.40-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="qrcodeutils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/qrcodeutils_jar</output-path>
+    <root id="root">
+      <element id="archive" name="qrcodeutils.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="qrcodeutils" />
+      </element>
+      <element id="library" level="project" name="Maven: com.google.zxing:core:3.2.1" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:19.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.22" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.5" />
+    </root>
+  </artifact>
+</component>
